@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"main":{"doc":"Simulate files one step at a time","t":[3,11,11,11,11,11,11,11,11,11,11],"n":["File","borrow","borrow_mut","fmt","from","into","len","name","try_from","try_into","type_id"],"q":["main","","","","","","","","","",""],"d":["Represents a file, which probably lives at file system.","","","","","","Returns file’s length in bytes.","Returns the file’s name.","","",""],"i":[0,1,1,1,1,1,1,1,1,1,1],"f":[null,[[]],[[]],[[["formatter",3]],["result",6]],[[]],[[]],[[],["usize",15]],[[],["string",3]],[[],["result",4]],[[],["result",4]],[[],["typeid",3]]],"p":[[3,"File"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
